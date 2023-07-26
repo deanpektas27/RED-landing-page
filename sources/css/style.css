@@ -1,0 +1,46 @@
+@font-face {
+    font-family: ltasusreg;
+    src: url(../fonts/LTAsus-Regular.ttf);
+}
+
+@font-face {
+    font-family: ltasusbold;
+    src: url(../fonts/LTAsus-Bold.ttf);
+}
+
+@font-face {
+    font-family: ltasusheavy;
+    src: url(../fonts/LTAsus-Heavy.ttf);
+}
+
+@font-face {
+    font-family: ltasuslight;
+    src: url(../fonts/LTAsus-Light.ttf);
+}
+
+h1 {
+    font-family: ltasusbold;
+}
+
+body {
+    background-color: #CE3839 !important;
+    font-family: ltasusheavy;
+}
+
+.sociallinks a{
+    color: inherit !important;
+    margin-bottom: 36px;
+}
+
+p {
+    font-family: ltasusreg;
+}
+
+li {
+    font-family: ltasusreg;
+}
+
+div.container {
+    color: #ffffff;
+}
+
