@@ -18,6 +18,16 @@
     src: url(../fonts/LTAsus-Light.ttf);
 }
 
+#applybtn {
+    background-color: white;
+    margin: 1px;
+    padding: 10px;
+    border: none;
+    font-size: 1.5em;
+    border-radius: 5px;
+    font-family:ltasusbold;
+}
+
 h1 {
     font-family: ltasusbold;
 }
